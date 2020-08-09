@@ -1,0 +1,25 @@
+{
+  "name": "high-level",
+  "version": "1.0.0",
+  "description": "Library for fullstack apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiritUrban/high-level.js.git"
+  },
+  "keywords": [
+    "js",
+    "fullstack",
+    "high",
+    "level"
+  ],
+  "author": "Dyachuk Vitalii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpiritUrban/high-level.js/issues"
+  },
+  "homepage": "https://github.com/SpiritUrban/high-level.js#readme"
+}
